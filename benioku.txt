@@ -1,0 +1,1 @@
+Konsol ekranında ard arda çok fazla k seçimi yapınca hata veriyor.
